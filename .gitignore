@@ -1,2 +1,3 @@
 session.lock
 *.dat_old
+.DS_Store
